@@ -94,6 +94,8 @@ AI-agent-Notion-Web-Control/
 4. **Response Generation:**
    * After executing the task, LLaMA 2 generates a detailed response for the user, summarizing the action taken.
 
+![image](media/workflow.png)
+
 ## Example
 
 Here’s an example of adding 5 tasks automatically:
